@@ -6,6 +6,7 @@ Este repositorio representa el trabajo social del grupo Estado de Ética Legisla
 Nota:
 =========
 El proyecto ha sido creado con Eclipse. Se ha usado el modelo MVC.
+Se pueden ver imágenes de ejemplo en la carpeta ImagenesDeEjemplo
 
 Documentación:
 =========
