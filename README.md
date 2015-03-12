@@ -19,3 +19,9 @@ Instalación:
 Para poder usarlo tendréis que ir a la clase model.class y editar el atributo apikey por una clave vuestra. Si os registráis en virustotal y entráis en vuestro perfil la veréis.
 
 Después bastará con construir el proyecto y ejecutarlo.
+
+Licencia:
+=========
+
+![alt text](http://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons")
+VirusTotalScanner por EstadoELP se distribuye bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional. Basada en una obra en https://github.com/estadoelp/VirusEscanner.
