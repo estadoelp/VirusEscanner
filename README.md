@@ -23,5 +23,5 @@ Después bastará con construir el proyecto y ejecutarlo.
 Licencia:
 =========
 
-(http://creativecommons.org/licenses/by-nc-sa/4.0/
+http://creativecommons.org/licenses/by-nc-sa/4.0/
 VirusTotalScanner por EstadoELP se distribuye bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional. Basada en una obra en https://github.com/estadoelp/VirusEscanner.
